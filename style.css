@@ -9,7 +9,6 @@ body {
 
 }
 
-
 .first-segment {
 
 
@@ -57,6 +56,19 @@ body {
 
 }
 
+.third-segment {
+    text-align: center;
+    padding: 150px 150px 120px 100px;
+    font-size: 600;
+   
+}
+
+.third-segment p {
+    padding: 30px 100px 120px;
+
+}
+
+
 .Dollar-set {
     color: red;
     padding: 60px 80px 10px 100px;
@@ -64,6 +76,16 @@ body {
     justify-content: space-evenly;
     text-align: center;
 
+}
+.flex-management{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    width:0px -5px;  
+}
+.flex-management p{
+    width:40%;
+    
 }
 
 .box {
@@ -77,6 +99,37 @@ body {
 
 
 }
+#Education{
+
+    padding: 30px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    background-color: beige;
+
+
+}
+#Food{
+    padding: 30px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    background-color: hsl(191, 100%, 57%);
+
+
+}
+#Shelter{
+    padding:30px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    background-color: #ee94c9;
+
+}
+
 
 .box-20 {
     border: 5px solid red;
