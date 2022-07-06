@@ -1,6 +1,6 @@
-*{
-    padding:0px;
-    margin:0px;
+* {
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
@@ -18,39 +18,93 @@ body {
     color: #800000;
     background-image: url(images/firstsegbgi.jpg);
     height: 75vh;
-    
+
 
 
 }
-.first-segment h1{
-    color:rgba(255, 0, 0, 0.775);
+
+.first-segment h1 {
+    color: rgba(255, 0, 0, 0.775);
 }
 
 .first-segment p {
 
-    
-    padding:30px 100px 120px 30px;
+
+    padding: 30px 100px 120px 30px;
     font-weight: 700;
 }
-.Donation-button{
+
+.Donation-button {
     text-decoration: none;
-    color:white;
-    font-weight:700;
+    color: white;
+    font-weight: 700;
 
     padding: 10px 18px 15px 18px;
-    margin:10px 70px 20px ; 
-    background-image: linear-gradient(orange,red);
+    margin: 10px 70px 20px;
+    background-image: linear-gradient(orange, red);
     border-radius: 5%;
 
 }
-.second-segment{
+
+.second-segment {
     text-align: center;
-    padding: 110px 150px;
+    padding: 150px 150px 120px;
     font-size: 600;
 }
-.second-segment p{
-    padding:30px 100px 120px 30px;
-    font-weight: 700;
-    color:red;
 
+.second-segment p {
+    padding: 30px 100px 120px;
+
+}
+
+.Dollar-set {
+    color: red;
+    padding: 60px 80px 10px 100px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+.box {
+
+    padding: 30px;
+    margin: auto;
+    width: 40px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: beige;
+
+
+}
+
+.box-20 {
+    border: 5px solid red;
+    background-color: rgb(244, 206, 193);
+
+}
+
+.amount {
+    padding: 70px 70px 10px 70px;
+    margin: auto;
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: red;
+}
+
+.sec-Donation-button a {
+
+
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    padding: 0px 18px 15px 18px;
+    margin-top: 90px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5%;
+
+}
+
+.sec-Donation-button {
+    padding: 60px;
 }
