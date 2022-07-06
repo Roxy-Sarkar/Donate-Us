@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+
+.first-segment {
+
+
+    text-align: center;
+    padding: 110px 150px;
+    color: #800000;
+    background-image: url(images/firstsegbgi.jpg);
+    height: 90vh;
+
+
+}
+.first-segment h1{
+    color:rgba(255, 0, 0, 0.775);
+}
+
+.first-segment p {
+
+    
+    padding:30px 100px 120px 30px;
+    font-weight: 700;
+}
+.Donation-button{
+    text-decoration: none;
+    color:white;
+    font-weight:700;
+    text-align: center;
+    padding: 10px 20px;
+
+    margin:auto;
+    background-image: linear-gradient(orange,red);
+
+}
