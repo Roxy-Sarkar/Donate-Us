@@ -56,6 +56,8 @@ body {
 
 }
 
+
+
 .third-segment {
     text-align: center;
     padding: 150px 150px 120px 100px;
@@ -64,6 +66,17 @@ body {
 }
 
 .third-segment p {
+    padding: 30px 100px 120px;
+
+}
+
+.fourth-segment {
+    text-align: center;
+    padding: 150px 150px 120px;
+    font-size: 600;
+
+}
+.fourth-segment p{
     padding: 30px 100px 120px;
 
 }
@@ -169,6 +182,16 @@ body {
 
 .footer-management {
     text-align: center;
-    color:red;
-    
+    color: red;
+
+}
+#button-color{
+    color:white;
+    background-color: red;
+    height:30px;
+}
+.newsletter-subs{
+    background-color: #f0c096;
+    padding: 40px 150px 40px 150px ;
+    height:70px;
 }
