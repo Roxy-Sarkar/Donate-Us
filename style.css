@@ -76,7 +76,8 @@ body {
     font-size: 600;
 
 }
-.fourth-segment p{
+
+.fourth-segment p {
     padding: 30px 100px 120px;
 
 }
@@ -168,9 +169,9 @@ body {
 
     text-decoration: none;
     color: white;
-    font-weight: 400;
-    padding: 0px 18px 15px 18px;
-    margin-top: 90px;
+    font-weight: 700;
+    padding: 10px 18px 15px 18px;
+    margin: 10px 70px 20px;
     background-image: linear-gradient(orange, red);
     border-radius: 5%;
 
@@ -185,13 +186,46 @@ body {
     color: red;
 
 }
-#button-color{
-    color:white;
+
+#button-color {
+    color: white;
     background-color: red;
-    height:30px;
+    height: 30px;
 }
-.newsletter-subs{
+
+.newsletter-subs {
     background-color: #f0c096;
-    padding: 40px 150px 40px 150px ;
-    height:70px;
+    padding: 40px 150px 40px 150px;
+    height: 70px;
+}
+
+.Donation-by-yourself {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 30px;
+    font-weight: 700;
+    background-image: url(images/donation6.jpg);
+    height: 75vh;
+    text-align: center;
+    padding: 110px 150px;
+
+
+
+}
+
+.Additional-part {
+    padding: 30px 100px 120px 30px;
+    font-weight: 700;
+}
+
+.Additional-part a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 10px 18px 15px 18px;
+    margin: 10px 70px 20px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5%;
+
+
 }
